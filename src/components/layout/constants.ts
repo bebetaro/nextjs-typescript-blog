@@ -1,2 +1,2 @@
 export const NAME = 'Bebetaro'
-export const TITLE = 'This is learning site of Next.js'
+export const TITLE = 'Bebetaro\'s learning blog'
