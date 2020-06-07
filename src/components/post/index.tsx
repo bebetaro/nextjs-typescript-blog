@@ -11,6 +11,7 @@ export const Post: React.FC<Props> = ({ postData }) => {
     <Layout home={false}>
       <Head>
         <title>{postData.title}</title>
+        <meta name="og:title" content={postData.title} />
       </Head>
       <Styled.H1Heading>{postData.title}</Styled.H1Heading>
       <Styled.DivLightColor>
