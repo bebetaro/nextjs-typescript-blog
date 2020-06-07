@@ -12,7 +12,7 @@ This tutorial is written by JavaScript and CSS Modules but I tried TypeScript an
 
 This is so interesting tutorial and a lot of fun!  
 Because I know React and TypeScript but I didn't know SSR & SSG...
-However thorough this course, I learned both of them and when I should use SSG or not, or SSR or not. This knowledge is a big fruit of this lesson.
+However thorough this course, I learned both of them and I realize when I should use SSG or SSR for pre-fetching. And also when I should use Client-Side, not SSR or SSG. This knowledge is a big fruit of this lesson.
 
 ### Lastly
 
