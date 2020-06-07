@@ -5,9 +5,7 @@ import html from 'remark-html'
 import matter from 'gray-matter'
 import { isArray } from 'util';
 
-// const postsDirectory = path.join(process.cwd(),'../../posts')
-
-const postsDirectory = "/Users/takumikurokawa/apps/nextjs-blog/posts";
+const postsDirectory = path.join(process.cwd(),'posts')
 
 export const getStoredPostsData = ()=>{
   const fileNames = fs.readdirSync(postsDirectory)
